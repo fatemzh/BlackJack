@@ -7,7 +7,7 @@ Ce projet est une implémentation simple mais moderne du jeu de Blackjack, déve
 Le design utilise le style Glassmorphism, caractérisé par des arrière-plans flous, des transparences et une sensation de "verre" à travers l'interface utilisateur. 
 
 
-##🔧 Développé avec :  
+## 🔧 Développé avec :  
 HTML5
 CSS3
 JavaScript  
